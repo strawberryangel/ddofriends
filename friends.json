@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Toafet",
+        "player": "Toaf",
+        "note": "Friendly"
+    },
+    {
+        "name": "Toaf",
+        "player": "Toaf"
+    },
+    {
+        "name": "Macedonian",
+        "player": "DRB Player"
+    },
+    {
+        "name": "Ddukeleto",
+        "player": "Saga of Dune guy"
+    },
+    {
+        "name": "Muahdiib",
+        "player": "Saga of Dune guy"
+    },
+    {
+        "name": "Togwilder",
+        "player": "Tog"
+    },
+    {
+        "name": "Togbabe",
+        "player": "Tog"
+    },
+    {
+        "name": "Ethyrial",
+        "player": "Tog's daughter"
+    },
+    {
+        "name": "Davyz",
+        "player": "Dave of Mithral",
+        "active": false
+    },
+    {
+        "name": "Jaxm",
+        "player": "Dave of Mithral ????",
+        "active": false
+    },
+    {
+        "name": "Doprah",
+        "player": "Squirrely",
+        "active": false
+    },
+    {
+        "name": "Mrsquirrel",
+        "player": "Squirrely",
+        "active": false
+    },
+    {
+        "name": "Kimche",
+        "player": "Kimche"
+    },
+    {
+        "name": "Rcajr",
+        "player": "Cale's Dad"
+    },
+    {
+        "name": "Earthbrother",
+        "player": "Cale's Dad"
+    },
+    {
+        "name": "Bearclan",
+        "player": "Cale's Dad"
+    },
+    {
+        "name": "Longswordd",
+        "player": "Cale's Dad"
+    },
+    {
+        "name": "Tubes",
+        "player": "Cale's Dad"
+    },
+    {
+        "name": "Snowkitty",
+        "player": "Kitty"
+    },
+    {
+        "name": "Healmorecale",
+        "player": "Cale",
+        "active": false
+    },
+    {
+        "name": "Beastcale",
+        "player": "Cale",
+        "active": false
+    },
+    {
+        "name": "Castorcale",
+        "player": "Cale",
+        "active": false
+    },
+    {
+        "name": "Caletree",
+        "player": "Cale",
+        "active": false
+    },
+    {
+        "name": "Thecale",
+        "player": "Cale",
+        "active": false
+    },
+    {
+        "name": "Fhelicien",
+        "player": "Toasteur"
+    },
+    {
+        "name": "Pepitte",
+        "player": "Toasteur"
+    },
+    {
+        "name": "Tooonka",
+        "player": "Toasteur"
+    },
+    {
+        "name": "Lunafey",
+        "player": "Toasteur"
+    },
+    {
+        "name": "Toasteur",
+        "player": "Toasteur"
+    },
+    {
+        "name": "Solaryel",
+        "player": "Dave"
+    },
+    {
+        "name": "Loryel",
+        "player": "Dave"
+    },
+    {
+        "name": "Ladoniel",
+        "player": "Dave"
+    },
+    {
+        "name": "Aldiel",
+        "player": "Dave"
+    },
+    {
+        "name": "Mechanyel",
+        "player": "Dave"
+    },
+    {
+        "name": "Lorient",
+        "note": "Can be a pleasant fellow or quite driven"
+    },
+    {
+        "name": "Tosodoula",
+        "note": "Greek ?"
+    },
+    {
+        "name": "Calthrian",
+        "note": "Greek ?"
+    },
+    {
+        "name": "Yarahh",
+        "note": "Knows me as S-J"
+    },
+    {
+        "name": "Pewpewmcgee",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Killicasts",
+        "player": "Nyt"
+    },
+    {
+        "name": "Kifingers",
+        "player": "Nyt"
+    },
+    {
+        "name": "Nytstrings",
+        "player": "Nyt"
+    },
+    {
+        "name": "Pakkz",
+        "player": "Nyt"
+    },
+    {
+        "name": "Sttringz",
+        "player": "Nyt"
+    },
+    {
+        "name": "Tinnkerr",
+        "player": "Nyt"
+    },
+    {
+        "name": "Ironsmith",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Chaoticsins",
+        "player": "Sin"
+    },
+    {
+        "name": "Crystallynn",
+        "player": "Crys"
+    },
+    {
+        "name": "Cryssiana",
+        "player": "Crys"
+    },
+    {
+        "name": "Crysstine",
+        "player": "Crys"
+    },
+    {
+        "name": "Crysstaline",
+        "player": "Crys"
+    },
+    {
+        "name": "Dumpstats",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Dumbhorc",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Holysins",
+        "player": "Sin"
+    },
+    {
+        "name": "Baudybrawler",
+        "player": "Nyt"
+    },
+    {
+        "name": "Stabbymcgee",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Taddail",
+        "player": "Nyt"
+    },
+    {
+        "name": "Lytfingers",
+        "player": "Nyt"
+    },
+    {
+        "name": "Trickedtune",
+        "player": "Snork"
+    },
+    {
+        "name": "Snorktheorc",
+        "player": "Snork",
+        "note": "Looks like Snork deleted this toon !?",
+        "active": false
+    },
+    {
+        "name": "Crystalrayne",
+        "player": "Crys"
+    },
+    {
+        "name": "Firegodst",
+        "player": "Riley"
+    },
+    {
+        "name": "Nuukken",
+        "player": "Nuuka"
+    },
+    {
+        "name": "Nuuka",
+        "player": "Nuuka"
+    },
+    {
+        "name": "Nytrage",
+        "player": "Nyt"
+    },
+    {
+        "name": "Snaap",
+        "player": "Nyt"
+    },
+    {
+        "name": "Elvansin",
+        "player": "Sin"
+    },
+    {
+        "name": "Valdomir",
+        "player": "Francophone ?",
+        "active": false
+    },
+    {
+        "name": "Cicadashell",
+        "player": "Thumpety",
+        "active": false
+    },
+    {
+        "name": "Klinknklack",
+        "player": "Nyt"
+    },
+    {
+        "name": "Silentsole",
+        "player": "Silent"
+    },
+    {
+        "name": "Pikket",
+        "player": "Nyt"
+    },
+    {
+        "name": "Nytfingers",
+        "player": "Nyt"
+    },
+    {
+        "name": "Stumpygrump",
+        "player": "Nyt"
+    },
+    {
+        "name": "Dabanque",
+        "player": "Nyt"
+    },
+    {
+        "name": "Barbbank",
+        "player": "Nyt"
+    },
+    {
+        "name": "Nytarmory",
+        "player": "Nyt"
+    },
+    {
+        "name": "Zenhorc",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Wexa",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Wexc",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Wexxell",
+        "player": "Chris Goins"
+    },
+    {
+        "name": "Anunakhie",
+        "player": "Maude",
+        "note": "Maude - de Montréal"
+    }
+]
